@@ -1,4 +1,4 @@
-# Desafio 4: Verificação e Configuração de Interfaces de Rede e FTP
+# Projeto Packet Tracer: Verificação e Configuração de Interfaces de Rede e FTP
 
 ## ✅ Objetivo Geral
 
