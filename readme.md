@@ -57,6 +57,8 @@ no shutdown
 exit
 ```
 
+---
+
 ### 3. Verificar Status da Interface de Rede (PC)
 
 #### No PC:
@@ -67,6 +69,8 @@ Vá para Desktop → Command Prompt e execute o comando:
 ipconfig
 ```
 ✔️ Verifique se o IP, máscara e gateway estão corretos.
+
+---
 
 
 ### 4. Simular Servidor FTP (Server0)
@@ -111,31 +115,31 @@ ftp>
 
 ### 🔌 Topologia da Rede
 > Estrutura completa com os 1 PC, 1 servidor, switch e roteador conectados.
-![Topologia da Rede](https://raw.githubusercontent.com/DurezahGeek/)
+![Topologia da Rede](https://raw.githubusercontent.com/DurezahGeek/FTP-Simulador/refs/heads/main/src/topologia.png)
 
 ---
 
 ### 💻 PC – Configuração de Rede
 > Mostra o modelo, IP, MAC Address e Gateway configurado no PC.
-![PC Detalhes]()
+![PC Detalhes](https://raw.githubusercontent.com/DurezahGeek/FTP-Simulador/refs/heads/main/src/pc.png)
 
 ---
 
 ### 💻 Servidor – Configuração de Rede
 > Mostra o modelo, IP, MAC Address e Gateway configurado no servidor.
-![Servidor Detalhes]()
+![Servidor Detalhes](https://raw.githubusercontent.com/DurezahGeek/FTP-Simulador/refs/heads/main/src/servidor.png)
 
 ---
 
 ### 📶 Switch Detalhes
 > Apresenta o modelo do switch (2960) e as portas que estão conectadas aos dispositivos.
-![Switch Detalhes](https:)
+![Switch Detalhes](https://raw.githubusercontent.com/DurezahGeek/FTP-Simulador/refs/heads/main/src/switch.png)
 
 ---
 
 ### 🌐 Roteador Detalhes
 > Informações do roteador (2911), portas conectadas e IP configurado na interface.
-![Roteador Detalhes](https:)
+![Roteador Detalhes](https://raw.githubusercontent.com/DurezahGeek/FTP-Simulador/refs/heads/main/src/roteador.png)
 
 ## 👩‍💻 Autora
 
